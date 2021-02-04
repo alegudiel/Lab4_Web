@@ -28,7 +28,7 @@
   
   .instagram::after {
     border: 19px solid white;
-    border radius: 60px;
+    border-radius: 60px;
     width: 80px;
     height: 80px;
     border-radius: 100%;
